@@ -635,13 +635,6 @@
 	},
 	{
 		"op": "replace",
-		"path": "/22/output/quantity",
-		"value": 1,
-		"file": "game:recipes/grid/cobblestone.json",
-		"side": "Server"
-	},
-	{
-		"op": "replace",
 		"path": "/output/quantity",
 		"value": 1,
 		"file": "game:recipes/grid/stonebricks.json",
