@@ -1,0 +1,8 @@
+[
+  {
+    "op": "replace",
+    "path": "/enabled",
+    "value": true,
+    "file": "butchering:itemtypes/butchercreatures/medievalexpansion/aurochs.json"
+  }
+]

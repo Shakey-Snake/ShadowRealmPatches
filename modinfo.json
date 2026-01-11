@@ -1,0 +1,9 @@
+{
+  "type": "content",
+  "modid": "shadowrealmserverpatches",
+  "name": "Shadow Realm Server Patches",
+  "version": "1.5.4",
+  "description": "A collection of patches for the Shadow Realm server",
+  "authors": [ "unHallowed, Vioh, ShakeySnake, Roscati, and LilianaXolkiyr" ],
+  "side": "universal"
+}

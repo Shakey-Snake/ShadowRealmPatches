@@ -1,0 +1,73 @@
+[
+  {
+    "op": "replace",
+    "path": "/attributes/backpackByType/*-normal/quantitySlots",
+    "value": 12,
+    "file": "game:itemtypes/wearable/bag/backpack.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/backpackByType/*-sturdy/quantitySlots",
+    "value": 16,
+    "file": "game:itemtypes/wearable/bag/backpack.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 6,
+    "file": "game:itemtypes/wearable/bag/handbasket.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 8,
+    "file": "game:itemtypes/wearable/bag/hunterbackpack.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 10,
+    "file": "game:itemtypes/wearable/bag/linensack.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 24,
+    "file": "game:itemtypes/wearable/bag/miningbag.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 28,
+    "file": "game:itemtypes/wearable/bag/miningbagsturdy.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/backpackByType/*-saddlebags1/quantitySlots",
+    "value": 30,
+    "file": "game:itemtypes/wearable/animal/hooved.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/backpackByType/*-saddlebags2/quantitySlots",
+    "value": 40,
+    "file": "game:itemtypes/wearable/animal/hooved.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/attributes/backpack/quantitySlots",
+    "value": 20,
+    "file": "gloomeclasses:itemtypes/wearable/bag/merchantsbackpack.json",
+    "side": "Server"
+  }
+
+]

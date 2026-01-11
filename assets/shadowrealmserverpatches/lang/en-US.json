@@ -1,0 +1,11 @@
+{
+  "item-deadhorse-1-dead": "Horse Carcass",
+  "item-butchering_compat_me_equus-deadhorse-1-dead": "Horse Carcass",
+  "item-deadhorse-1-skinned": "Horse Carcass (Skinned)",
+  "item-butchering_compat_me_equus-deadhorse-1-skinned": "Horse Carcass (Skinned)",
+  "item-deadhorse-1-bledout": "Horse Carcass (Bled Out)",
+  "item-butchering_compat_me_equus-deadhorse-1-bledout": "Horse Carcass (Bled Out)",
+  "item-deadhorse-1-rotten": "Horse Carcass (Rotten)",
+  "item-butchering_compat_me_equus-deadhorse-1-rotten": "Horse Carcass (Rotten)",
+  "itemdesc-deadhorse-1-*": "The animal's heaviness weighs you down a large amount"
+}

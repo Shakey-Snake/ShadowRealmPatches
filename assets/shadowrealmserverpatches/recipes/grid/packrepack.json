@@ -1,0 +1,68 @@
+[
+	{
+		"ingredientPattern": "F,P",
+		"ingredients": {
+			"F": { type: "item", code: "game:cattailtops", quantity: 1, returnedStack: { type: "item", code: "game:cattailtops", quantity: 1 } },
+			"P": { type: "item", code: "game:hunterbackpack", quantity: 1 },
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { type: "item", code: "game:hunterbackpack", quantity: 1 }
+	},
+	{
+		"ingredientPattern": "F,P",
+		"ingredients": {
+			"F": { type: "item", code: "game:flaxtwine", quantity: 1, returnedStack: { type: "item", code: "game:flaxtwine", quantity: 1 } },
+			"P": { type: "item", code: "game:linensack", quantity: 1 },
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { type: "item", code: "game:linensack", quantity: 1 }
+	},
+	{
+		"ingredientPattern": "F,P",
+		"ingredients": {
+			"F": { type: "item", code: "game:fat", quantity: 1, returnedStack: { type: "item", code: "game:fat", quantity: 1 } },
+			"P": { type: "item", code: "game:backpack-normal", quantity: 1 },
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { type: "item", code: "game:backpack-normal", quantity: 1 }
+	},
+	{
+		"ingredientPattern": "F,P",
+		"ingredients": {
+			"F": { type: "item", code: "game:fat", quantity: 1, returnedStack: { type: "item", code: "game:fat", quantity: 1 } },
+			"P": { type: "item", code: "game:backpack-sturdy", quantity: 1 },
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { type: "item", code: "game:backpack-sturdy", quantity: 1 }
+	},
+	{
+		"ingredientPattern": "F,P",
+		"ingredients": {
+			"F": { type: "item", code: "game:fat", quantity: 1, returnedStack: { type: "item", code: "game:fat", quantity: 1 } },
+			"P": { type: "item", code: "gloomeclasses:merchantsbackpack", quantity: 1 },
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { type: "item", code: "gloomeclasses:merchantsbackpack", quantity: 1 }
+	},
+	{
+		"ingredientPattern": "F,P",
+		"ingredients": {
+			"F": { type: "item", code: "game:candle", quantity: 1, returnedStack: { type: "item", code: "game:candle", quantity: 1 } },
+			"P": { type: "item", code: "gloomeclasses:miningbagsturdyreinforced", quantity: 1 },
+		},
+		"width": 1,
+		"height": 2,
+		"shapeless": true,
+		"output": { type: "item", code: "gloomeclasses:miningbagsturdyreinforced", quantity: 1 }
+	}
+]

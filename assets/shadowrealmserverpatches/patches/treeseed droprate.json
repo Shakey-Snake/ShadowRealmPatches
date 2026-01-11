@@ -1,0 +1,51 @@
+[
+  {
+    "op": "replace",
+    "path": "/drops/0/quantityByType/*/avg",
+    "value": 0.25,
+    "file": "game:blocktypes/plant/leaves/branchy.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/drops/0/quantityByType/*-acacia/avg",
+    "value": 0.25,
+    "file": "game:blocktypes/plant/leaves/branchy.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/drops/0/quantityByType/*-crimsonkingmaple/avg",
+    "value": 0.25,
+    "file": "game:blocktypes/plant/leaves/branchy.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/drops/0/quantityByType/*-ebony/avg",
+    "value": 0.25,
+    "file": "game:blocktypes/plant/leaves/branchy.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/drops/0/quantityByType/*-pine/avg",
+    "value": 0.25,
+    "file": "game:blocktypes/plant/leaves/branchy.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/drops/0/quantityByType/*-purpleheart/avg",
+    "value": 0.25,
+    "file": "game:blocktypes/plant/leaves/branchy.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/drops/0/quantityByType/*-redwood/avg",
+    "value": 0.25,
+    "file": "game:blocktypes/plant/leaves/branchy.json",
+    "side": "Server"
+  }
+]

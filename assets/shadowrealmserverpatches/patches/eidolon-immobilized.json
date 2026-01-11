@@ -1,0 +1,79 @@
+[
+  {
+    "op": "replace",
+    "path": "/server/behaviors/3/currenthealth",
+    "value": 10000,
+    "file": "game:entities/lore/boss/eidolon-immobilized.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/3/maxhealth",
+    "value": 10000,
+    "file": "game:entities/lore/boss/eidolon-immobilized.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/damage",
+    "value": 20,
+    "file": "game:entities/lore/boss/eidolon-immobilized.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/mincooldown",
+    "value": 150,
+    "file": "game:entities/lore/boss/eidolon-immobilized.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/0/maxcooldown",
+    "value": 500,
+    "file": "game:entities/lore/boss/eidolon-immobilized.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/1/projectileDamage",
+    "value": 12,
+    "file": "game:entities/lore/boss/eidolon-immobilized.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/1/projectileDamageTier",
+    "value": 3,
+    "file": "game:entities/lore/boss/eidolon-immobilized.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/1/mincooldown",
+    "value": 500,
+    "file": "game:entities/lore/boss/eidolon-immobilized.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/1/maxcooldown",
+    "value": 1000,
+    "file": "game:entities/lore/boss/eidolon-immobilized.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/2/projectileDamage",
+    "value": 12,
+    "file": "game:entities/lore/boss/eidolon-immobilized.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/server/behaviors/5/aitasks/2/projectileDamageTier",
+    "value": 2,
+    "file": "game:entities/lore/boss/eidolon-immobilized.json",
+    "side": "Server"
+  }
+]

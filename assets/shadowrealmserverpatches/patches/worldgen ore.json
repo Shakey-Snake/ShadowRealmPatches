@@ -1,0 +1,128 @@
+[
+  {
+    "op": "replace",
+    "path": "/0/triesPerChunk",
+    "value": 10,
+    "file": "game:worldgen/deposits/metalore/bismuthinite.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/attributes/surfaceBlockChance",
+    "value": 0.15,
+    "file": "game:worldgen/deposits/metalore/cassiterite.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/1/triesPerChunk",
+    "value": 5,
+    "file": "game:worldgen/deposits/metalore/cassiterite.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/triesPerChunk",
+    "value": 2,
+    "file": "game:worldgen/deposits/metalore/chromite.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/childDeposits/0/attributes/randomTries/avg",
+    "value": 7,
+    "file": "game:worldgen/deposits/metalore/galena.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/childDeposits/0/triesPerChunk",
+    "value": 2,
+    "file": "game:worldgen/deposits/metalore/galena.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/triesPerChunk",
+    "value": 25,
+    "file": "game:worldgen/deposits/metalore/galena.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/triesPerChunk",
+    "value": 1,
+    "file": "game:worldgen/deposits/metalore/ilmenite.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/triesPerChunk",
+    "value": 0.65,
+    "file": "game:worldgen/deposits/metalore/iron.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/1/triesPerChunk",
+    "value": 0.45,
+    "file": "game:worldgen/deposits/metalore/iron.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/attributes/surfaceBlockChance",
+    "value": 0.25,
+    "file": "game:worldgen/deposits/metalore/malachite.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/triesPerChunk",
+    "value": 7,
+    "file": "game:worldgen/deposits/metalore/malachite.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/attributes/surfaceBlockChance",
+    "value": 0.25,
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/triesPerChunk",
+    "value": 0.3,
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/1/triesPerChunk",
+    "value": 18,
+    "file": "game:worldgen/deposits/metalore/nativecopper.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/triesPerChunk",
+    "value": 3.5,
+    "file": "game:worldgen/deposits/metalore/pentlandite.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/triesPerChunk",
+    "value": 4,
+    "file": "game:worldgen/deposits/metalore/rhodochrosite.json",
+    "side": "Server"
+  },
+  {
+    "op": "replace",
+    "path": "/0/triesPerChunk",
+    "value": 8.5,
+    "file": "game:worldgen/deposits/metalore/sphalerite.json",
+    "side": "Server"
+  }
+]
